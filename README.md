@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🗣️ My name is Ivan Dmitrenko
+- 🇺🇦 I live in Ukraine
+- 🔭 I’m currently working on everything that comes to my mind. ~~I never finish anything...~~
+- 🌱 I’m currently learning C#, Kotlin and Machine Learning.
+- 💬 Ask me about anything.
+- 📫 How to reach me:
+  + E-mail: [Gmail](mailto:dmitrenko.ivan08@gmail.com). Chance of getting reply: 0%
+  + Discord: NUBERT#8276
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I literally just copied this from GitHub’s template.
